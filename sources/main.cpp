@@ -1,4 +1,4 @@
-Copyright 2019 <RKulagin>
+/* Copyright 2019 <RKulagin> */
 
 #include <iostream>
 
